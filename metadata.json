@@ -1,0 +1,8 @@
+{
+  "name": "Zoya - Luxury Portfolio",
+  "description": "A cinematic, ultra-premium interactive portfolio for graphic designer and web developer Zoya, featuring floating 3D tools, glassmorphism, and AI-powered interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
